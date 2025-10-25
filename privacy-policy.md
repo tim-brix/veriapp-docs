@@ -21,6 +21,11 @@ We collect personal information that you voluntarily provide to us when you:
 - Product and document information
 - Verification timestamps and locations
 
+### Camera Access
+- Camera input when you scan QR codes or capture counterfeit evidence
+- Optional photo or video attachments you choose to upload with reports
+- Metadata associated with captured media (time, location) when permitted by your device settings
+
 ### Location Data
 - Optional geolocation data when you choose to enable geotagging for counterfeit reports
 - Approximate location based on IP address for security purposes
@@ -75,7 +80,7 @@ We may share your information in the following circumstances:
 
 ## 4. Data Security
 
-We implement appropriate technical and organizational security measures to protect your personal information:
+We store your personal information on secure cloud infrastructure managed by trusted hosting providers and implement appropriate technical and organizational security measures to protect it:
 
 ### Technical Safeguards
 - AES-256 encryption for data transmission and storage

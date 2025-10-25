@@ -1,0 +1,6 @@
+# Optional: If you want a specific Jekyll theme
+# theme: jekyll-theme-minimal 
+
+# Exclude files from being processed by Jekyll if needed
+# exclude:
+#   - .github/

@@ -1,6 +1,6 @@
 # Veri App – Terms of Service
 
-**Effective Date:** [Insert Date]
+**Effective Date:** December 14, 2025
 
 Welcome to Veri App, a product of Tim Brix Engineering and General Service Limited ("Company," "we," "our," or "us"). By accessing or using Veri App (the "App" or "Service"), you ("User," "you") agree to these Terms of Service ("Terms"). Please read them carefully.
 

@@ -1,6 +1,6 @@
 # Veri App – Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** December 14, 2025
 
 ## Introduction
 

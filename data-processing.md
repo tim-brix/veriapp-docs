@@ -1,6 +1,6 @@
 # Data Processing Agreement (DPA)
 
-**Effective Date:** [Insert Date]
+**Effective Date:** December 14, 2025
 
 ## Parties:
 
